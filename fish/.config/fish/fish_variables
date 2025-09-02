@@ -10,7 +10,6 @@ SETUVAR --export JAVA_HOME:/Users/marcos\x2earranz/\x2esdkman/candidates/java/cu
 SETUVAR --export LOG_LEVEL:debug
 SETUVAR --export MOON_NAME:marcos\x2dpluto\x2dtest
 SETUVAR --export N_PREFIX:/Users/marcos\x2earranz/\x2en
-SETUVAR --export OPENAI_API_KEY:sk\x2dfQYbBcMAkBGO7PgjoTajT3BlbkFJKh8I6YR0kMQcokCKBvEe
 SETUVAR --export PGPORT:13900
 SETUVAR --export PNPM_HOME:/Users/marcos\x2earranz/Library/pnpm
 SETUVAR --export PYENV_ROOT:/Users/marcos\x2earranz/\x2epyenv
