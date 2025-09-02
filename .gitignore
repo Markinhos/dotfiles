@@ -1,0 +1,3 @@
+.DS_Store
+**/fishd.tmp.*
+fish/.config/fish/fish_secrets
